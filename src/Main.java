@@ -12,7 +12,8 @@ public class Main {
       new Fibonacci(),
       new multiplicationSeries(),
 	  new CircleVolum(),
-       new Sphere()
+       new Sphere(),
+       new lucasSeries()
 
 	};
 	public static void main(String[] args) {
