@@ -12,7 +12,7 @@ public class Main {
       new Fibonacci(),
       new multiplicationSeries(),
 	  new CircleVolum(),
-       new sphere()
+       new Sphere()
 
 	};
 	public static void main(String[] args) {
